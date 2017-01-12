@@ -10,4 +10,7 @@ What are situations when branches would be helpful in keeping your history organ
 	its good to create different branches when working something different within the project you're working on. for example working on a new feature or fixing a bug. Branches help you keep your project organized, especially when you're sharing a project with others.
 
 How do the diagrams help you visualize the branch structure?
- 	
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
