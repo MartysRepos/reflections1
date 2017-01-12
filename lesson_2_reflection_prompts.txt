@@ -1,2 +1,13 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+
+What are situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	its good to create different branches when working something different within the project you're working on. for example working on a new feature or fixing a bug. Branches help you keep your project organized, especially when you're sharing a project with others.
+
+How do the diagrams help you visualize the branch structure?
+ 	
