@@ -13,3 +13,6 @@ What is the benfit of having a copy of the last known state of the remote stored
 
 
 How would you collaborate withour using Git ot Github? What would be easier, and what would be harder?
+
+
+when would you want to make changes in a separate branch rather than directly in master? What does each approach have?
